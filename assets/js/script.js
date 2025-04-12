@@ -1,0 +1,1 @@
+console.log("inside external js file");
